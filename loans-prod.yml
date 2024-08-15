@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+  
+  
+accounts:
+  message: "Welcome to Shayan Bank related prod APIs"
+  contactDetails:
+    name: "Guy2 - Product Owner"
+    email: "guy2@outlook.com"
+  onCallSupport:
+    (5555555555)
+    (4444444444)

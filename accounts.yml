@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+  
+  
+accounts:
+  message: "Welcome to Shayan Bank related local APIs"
+  contactDetails:
+    name: "Shayan Agl - Maintainer"
+    email: "shyan_1998@outlook.com"
+  onCallSupport:
+    (9999999999)
+    (7777777777)

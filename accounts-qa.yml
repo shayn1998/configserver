@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+  
+  
+accounts:
+  message: "Welcome to Shayan Bank related QA APIs"
+  contactDetails:
+    name: "Guy1 - API Tester"
+    email: "guy_1@outlook.com"
+  onCallSupport:
+    (8888888888)
+    (6666666666)
