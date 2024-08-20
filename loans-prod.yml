@@ -1,12 +1,11 @@
 build:
   version: "1.0"
-  
-  
-accounts:
-  message: "Welcome to Shayan Bank related prod APIs"
+
+loans:
+  message: "Welcome to Shayan Bank loans related prod APIs "
   contactDetails:
-    name: "Guy2 - Product Owner"
-    email: "guy2@outlook.com"
+    name: "Guy1 - Product Owner"
+    email: "guy1@shayanbank.com"
   onCallSupport:
-    (5555555555)
-    (4444444444)
+    - (834) 667-8709
+    - (967) 780-0956
