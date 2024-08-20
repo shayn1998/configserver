@@ -1,12 +1,11 @@
 build:
   version: "3.0"
-  
-  
-accounts:
-  message: "Welcome to Shayan Bank cards related local APIs"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
   contactDetails:
-    name: "Shayan Agl - Maintainer"
-    email: "shyan_1998@outlook.com"
+    name: "Guy3 - Developer"
+    email: "guy3@shayanbank.com"
   onCallSupport:
-    (9999999999)
-    (7777777777)
+    - (523) 520-4491
+    - (026) 492-1932
