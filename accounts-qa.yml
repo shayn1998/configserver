@@ -7,5 +7,5 @@ accounts:
     name: "Guy1 - API Tester"
     email: "guy_1@outlook.com"
   onCallSupport:
-    (8888888888)
-    (6666666666)
+    - (8888888888)
+    - (6666666666)
