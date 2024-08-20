@@ -1,17 +1,11 @@
-spring:
-  config:
-    activate:
-      on-profile: "prod"
-
 build:
   version: "1.0"
-  
-  
-accounts:
-  message: "Welcome to Shayan Bank related prod APIs"
+
+cards:
+  message: "Welcome to EazyBank cards related prod APIs "
   contactDetails:
-    name: "Guy2 - Product Owner"
-    email: "guy2@outlook.com"
+    name: "Guy1 - Product Owner"
+    email: "guy1@shayanbank.com"
   onCallSupport:
-    (5555555555)
-    (4444444444)
+    - (617) 432-2356
+    - (936) 564-8721
