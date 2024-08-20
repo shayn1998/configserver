@@ -3,7 +3,7 @@ build:
   
   
 accounts:
-  message: "Welcome to Shayan Bank related production APIs"
+  message: "Welcome to Shayan Bank related prod APIs"
   contactDetails:
     name: "Guy2 - Product Owner"
     email: "guy2@outlook.com"
