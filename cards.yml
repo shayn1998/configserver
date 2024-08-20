@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to EazyBank cards related local APIs "
+  message: "Welcome to Shayan Bank cards related local APIs "
   contactDetails:
     name: "Guy3 - Developer"
     email: "guy3@shayanbank.com"
