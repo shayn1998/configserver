@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to Shayan Bank related prod APIs"
   contactDetails:
     name: "Guy2 - Product Owner"
-    email: "{cipher}ef473f242d27ad059f7a8b05eaa20e2d901de3c29500a44346a34a73082f2800a49597638d97341a89755693d95d9163"
+    email: "{cipher}cce44448e739f687bf448c5abe68d932e8ee0bffdc12581160f2e4f62cd45d3231a21f987ab26eaf5ffc2eb900a35283"
   onCallSupport:
     - (5555555555)
     - (4444444444)
